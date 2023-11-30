@@ -1,2 +1,1 @@
-# Student-Information-Asp-.NET-CRUD
-This project is about CRUD operation developed using ASP .NET Web From Entity Framework.
+This project is about student information developed with ASP .NET Entity framework web from. This project has name, email, gender and date of birth. This is a Basic CRUD operation using entity framework. This project table may contain id as primary key and auto increment, name as varchar, email as varchar, gender as varchar, and date of birth as date.
